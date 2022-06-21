@@ -1,5 +1,6 @@
 # Spring Reactive Application
-
+[![Build Application](https://github.com/diogoalbuquerque/reactive-country-api/actions/workflows/build-application.yml/badge.svg)](https://github.com/diogoalbuquerque/reactive-country-api/actions/workflows/build-application.yml)
+[![codecov](https://codecov.io/gh/diogoalbuquerque/reactive-country-api/branch/main/graph/badge.svg?token=9eXslG12Yn)](https://codecov.io/gh/diogoalbuquerque/reactive-country-api)
 ## Country API
 
 API for create and find countries.
